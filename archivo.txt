@@ -1,1 +1,1 @@
-este es el archivo del master 
+este es el archivo que soluciono el merge conflict
