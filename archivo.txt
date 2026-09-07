@@ -1,1 +1,1 @@
-primer commit
+este es el archivo modificado desde nueva rama
