@@ -1,1 +1,1 @@
-este es el archivo que soluciono el merge conflict
+este es el archivo que se edito desde github
